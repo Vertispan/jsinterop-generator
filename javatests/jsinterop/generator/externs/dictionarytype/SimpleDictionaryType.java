@@ -1,5 +1,6 @@
 package jsinterop.generator.externs.dictionarytype;
 
+import java.lang.String;
 import jsinterop.annotations.JsFunction;
 import jsinterop.annotations.JsOverlay;
 import jsinterop.annotations.JsPackage;

@@ -1,5 +1,7 @@
 package jsinterop.generator.externs.optionalparameters;
 
+import java.lang.Object;
+import java.lang.String;
 import jsinterop.annotations.JsPackage;
 import jsinterop.annotations.JsType;
 

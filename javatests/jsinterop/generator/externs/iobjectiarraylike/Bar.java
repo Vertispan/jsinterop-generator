@@ -1,5 +1,9 @@
 package jsinterop.generator.externs.iobjectiarraylike;
 
+import java.lang.Class;
+import java.lang.Double;
+import java.lang.Object;
+import java.lang.String;
 import jsinterop.annotations.JsOverlay;
 import jsinterop.annotations.JsPackage;
 import jsinterop.annotations.JsType;

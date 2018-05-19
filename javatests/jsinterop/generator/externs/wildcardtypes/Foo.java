@@ -1,5 +1,7 @@
 package jsinterop.generator.externs.wildcardtypes;
 
+import java.lang.Double;
+import java.lang.String;
 import jsinterop.annotations.JsPackage;
 import jsinterop.annotations.JsType;
 

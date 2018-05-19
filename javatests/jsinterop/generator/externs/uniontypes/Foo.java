@@ -1,5 +1,6 @@
 package jsinterop.generator.externs.uniontypes;
 
+import java.lang.Object;
 import jsinterop.annotations.JsOverlay;
 import jsinterop.annotations.JsPackage;
 import jsinterop.annotations.JsProperty;

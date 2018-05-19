@@ -1,5 +1,8 @@
 package jsinterop.generator.externs.structuraltypes;
 
+import java.lang.Double;
+import java.lang.Object;
+import java.lang.String;
 import jsinterop.annotations.JsOverlay;
 import jsinterop.annotations.JsPackage;
 import jsinterop.annotations.JsProperty;

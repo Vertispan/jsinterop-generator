@@ -1,5 +1,7 @@
 package jsinterop.generator.externs.dependency;
 
+import java.lang.Object;
+import java.lang.String;
 import jsinterop.annotations.JsOverlay;
 import jsinterop.annotations.JsPackage;
 import jsinterop.annotations.JsProperty;
@@ -51,14 +53,17 @@ public class MyLibThirdPartyClass<T> extends ThirdPartyClass<T> {
   public ThirdParty2Class extraField;
 
   public MyLibThirdPartyClass(ThirdPartyClass.ConstructorFooUnionType foo) {
+    // This call is only here for java compilation purpose.
     super((ThirdPartyClass.ConstructorFooUnionType) null);
   }
 
   public MyLibThirdPartyClass(String foo) {
+    // This call is only here for java compilation purpose.
     super((ThirdPartyClass.ConstructorFooUnionType) null);
   }
 
   public MyLibThirdPartyClass(double foo) {
+    // This call is only here for java compilation purpose.
     super((ThirdPartyClass.ConstructorFooUnionType) null);
   }
 

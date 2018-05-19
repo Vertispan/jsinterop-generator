@@ -12,6 +12,7 @@ public class SimpleClass extends ThirdPartyClass implements ThirdPartyInterface 
   public ThirdPartyClass field;
 
   public SimpleClass() {
+    // This call is only here for java compilation purpose.
     super((ThirdPartyClass.ConstructorFooUnionType) null);
   }
 

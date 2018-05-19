@@ -9,7 +9,7 @@ public class ParentClass extends GreatParentClass {
   public double parentClassProperty;
 
   public ParentClass() {
-    // This call is only there for java compilation purpose.
+    // This call is only here for java compilation purpose.
     super((String) null, false, 0);
   }
 

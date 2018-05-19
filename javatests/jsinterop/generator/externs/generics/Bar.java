@@ -1,5 +1,8 @@
 package jsinterop.generator.externs.generics;
 
+import java.lang.Double;
+import java.lang.Object;
+import java.lang.String;
 import jsinterop.annotations.JsFunction;
 import jsinterop.annotations.JsOverlay;
 import jsinterop.annotations.JsPackage;

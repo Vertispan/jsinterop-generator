@@ -1,5 +1,6 @@
 package jsinterop.generator.externs.enums;
 
+import java.lang.String;
 import jsinterop.annotations.JsOverlay;
 import jsinterop.annotations.JsPackage;
 import jsinterop.annotations.JsType;
